@@ -1,0 +1,12 @@
+{
+	"title": "NASCAR",
+	"type": "web",
+	"main": "index.html",
+	"id": "com.palm.app.nascar",
+	"icon": "icon.png",
+	"splashicon": "icon-256x256.png",
+	"version": "1.24.0",
+	"vendor": "Hands-On Mobile",
+	"vendorurl": "http://www.handson.com" 
+}
+
